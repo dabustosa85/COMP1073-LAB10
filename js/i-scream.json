@@ -1,0 +1,57 @@
+{
+  "companyName" : "I Scream Inc.",
+  "headOffice" : "South Pole, Antarctica",
+  "established" : 2001,
+  "active" : true,
+  "topFlavors" : [
+    {
+      "name" : "Monstrous Mint",
+      "calories" : 400,
+      "type" : "ice cream",
+      "ingredients" : [
+        "peppermint cream",
+        "dark chocolate chips",
+        "vanilla extract"
+      ],
+      "image" : "chocolate-mint.svg"
+    },
+    {
+      "name" : "Perfect Peach Mango",
+      "calories" : 350,
+      "type" : "sorbet",
+      "ingredients" : [
+        "peach purée",
+        "mango chunks",
+        "clover honey"
+      ],
+      "image" : "peach-mango.svg"
+    },
+
+    {
+      "name" : "Green Tea Infusion",
+      "calories" : 280,
+      "type" : "ice cream",
+      "ingredients" : [
+        "matcha powder",
+        "vanilla extract",
+        "coconut milk",
+        "agave nectar"
+      ],
+      "image" : "green-tea.svg"
+    },
+    {
+      "name" : "Sunny Citrus Burst",
+      "calories" : 320,
+      "type" : "sorbet",
+      "ingredients" : [
+        "lemon juice",
+        "orange juice",
+        "grapefruit juice",
+        "sugar"
+      ],
+      "image" : "citrus-sorbet.svg"
+    }
+
+
+  ]
+}
